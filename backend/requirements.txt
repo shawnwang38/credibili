@@ -9,4 +9,5 @@ sqlite3
 pydantic
 python-multipart
 httpx
- 
+imageio-ffmpeg
+python-dotenv
