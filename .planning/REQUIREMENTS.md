@@ -143,17 +143,85 @@ Deferred to future release.
 
 ## Traceability
 
-Populated during roadmap creation.
+Populated 2026-04-19 by roadmapper.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (filled by roadmapper) | | |
+| FND-01 | Phase 1 | Pending |
+| FND-02 | Phase 1 | Pending |
+| FND-03 | Phase 1 | Pending |
+| FND-04 | Phase 1 | Pending |
+| FND-05 | Phase 1 | Pending |
+| FND-06 | Phase 1 | Pending |
+| API-01 | Phase 1 | Pending |
+| API-02 | Phase 1 | Pending |
+| API-03 | Phase 1 | Pending |
+| API-04 | Phase 1 | Pending |
+| API-05 | Phase 1 | Pending |
+| API-06 | Phase 1 | Pending |
+| STR-01 | Phase 1 | Pending |
+| STR-02 | Phase 1 | Pending |
+| STR-03 | Phase 1 | Pending |
+| STR-04 | Phase 1 | Pending |
+| STR-05 | Phase 1 | Pending |
+| STR-06 | Phase 1 | Pending |
+| CHR-01 | Phase 1 | Pending |
+| CHR-02 | Phase 1 | Pending |
+| CHR-03 | Phase 1 | Pending |
+| CHR-04 | Phase 1 | Pending |
+| CHR-05 | Phase 1 | Pending |
+| CMP-01 | Phase 1 | Pending |
+| CMP-02 | Phase 1 | Pending |
+| CMP-03 | Phase 1 | Pending |
+| VER-01 | Phase 2 | Pending |
+| VER-02 | Phase 2 | Pending |
+| VER-03 | Phase 2 | Pending |
+| VER-04 | Phase 2 | Pending |
+| VER-05 | Phase 2 | Pending |
+| VER-06 | Phase 2 | Pending |
+| VER-07 | Phase 2 | Pending |
+| VER-08 | Phase 2 | Pending |
+| VER-09 | Phase 2 | Pending |
+| VER-10 | Phase 2 | Pending |
+| VER-11 | Phase 2 | Pending |
+| LIV-01 | Phase 3 | Pending |
+| LIV-02 | Phase 3 | Pending |
+| LIV-03 | Phase 3 | Pending |
+| LIV-04 | Phase 3 | Pending |
+| LIV-05 | Phase 3 | Pending |
+| LIV-06 | Phase 3 | Pending |
+| LIV-07 | Phase 3 | Pending |
+| LIV-08 | Phase 3 | Pending |
+| LIV-09 | Phase 3 | Pending |
+| LIV-10 | Phase 3 | Pending |
+| DEP-01 | Phase 4 | Pending |
+| DEP-02 | Phase 4 | Pending |
+| DEP-03 | Phase 4 | Pending |
+| DEP-04 | Phase 4 | Pending |
+| DEP-05 | Phase 4 | Pending |
+| DEP-06 | Phase 4 | Pending |
+| DEP-07 | Phase 4 | Pending |
+| DEP-08 | Phase 4 | Pending |
+| DEP-09 | Phase 4 | Pending |
+| DEP-10 | Phase 4 | Pending |
+| DEP-11 | Phase 4 | Pending |
+| DEP-12 | Phase 4 | Pending |
+| DEP-13 | Phase 4 | Pending |
+| DEP-14 | Phase 4 | Pending |
+| DEP-15 | Phase 4 | Pending |
+| QUA-01 | Phase 5 | Pending |
+| QUA-02 | Phase 5 | Pending |
+| QUA-03 | Phase 5 | Pending |
+| QUA-04 | Phase 5 | Pending |
+| QUA-05 | Phase 5 | Pending |
+| QUA-06 | Phase 5 | Pending |
+| CMP-04 | Phase 5 | Pending |
 
 **Coverage:**
-- v1 requirements: 74 total
-- Mapped to phases: 0 (pending roadmap)
-- Unmapped: 74 ⚠️
+- v1 requirements: 69 total (note: previous header of 74 was an off-by-count — actual REQ-IDs total 69)
+- Mapped to phases: 69
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-04-19*
-*Last updated: 2026-04-19 after initial definition*
+*Last updated: 2026-04-19 — traceability populated by roadmapper*
