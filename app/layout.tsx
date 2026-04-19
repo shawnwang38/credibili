@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
-import { JetBrains_Mono } from "next/font/google";
+import { JetBrains_Mono, Geist } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import { TabNav } from "@/components/tab-nav";
 import "./globals.css";
+import { cn } from "@/lib/utils";
+
+const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 const mono = JetBrains_Mono({
   subsets: ["latin"],
@@ -17,7 +20,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${mono.variable} dark`} suppressHydrationWarning>
+    <html lang="en" className={cn("dark", mono.variable, "font-sans", geist.variable)} suppressHydrationWarning>
       <body className="h-full">
         <ThemeProvider>
           <div className="flex h-screen w-screen flex-col overflow-hidden">
