@@ -20,7 +20,7 @@ Open http://localhost:3000 — you'll be redirected to `/live`.
 
 ## Architecture notes
 
-- **Real backend with Claude API.** A FastAPI backend in `backend/` calls the
+- **Backend with Claude API.** A FastAPI backend in `backend/` calls the
   Claude API (Anthropic) to generate real credibility scores, claim analysis, and
   feed lines. Run it with `pnpm dev:backend` (requires `ANTHROPIC_API_KEY` in
   `backend/.env`). The Next route handlers at `/api/live-stream` and
@@ -38,7 +38,7 @@ Open http://localhost:3000 — you'll be redirected to `/live`.
 - **Hardcoded MVP values.** `DEFAULT_VIDEO_ID = "dQw4w9WgXcQ"` (placeholder),
   `DEFAULT_COMPANY = Acme Robotics (ACME)`, `DEFAULT_CLAIM` is the Q4 2026 margin claim.
 
-## Running with the real backend
+## Run
 
 ```bash
 # Terminal 1 — frontend + backend together
