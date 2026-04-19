@@ -12,7 +12,7 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Can U Deliver",
+  title: "CREDIBILI",
   description:
     "Will this company deliver on its claims? A credibility verdict for retail investors.",
 };
